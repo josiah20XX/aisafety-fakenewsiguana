@@ -1,4 +1,4 @@
 # FakeNewsIguana
-AI Research Portfolio 2025
+AI Research Portfolio
 
 Josiah Rhys Jacobson
