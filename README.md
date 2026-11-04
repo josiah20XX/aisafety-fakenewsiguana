@@ -1,4 +1,4 @@
-# FakeNewsIguana
-AI Research Portfolio
+# "FakeNewsIguana" 
 
-Josiah Rhys Jacobson
+AI Research Portfolio  
+by Josiah Rhys Jacobson
