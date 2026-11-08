@@ -1,6 +1,7 @@
-# "FakeNewsIguana" 
+# FakeNewsIguana™
 
-AI Research Portfolio  
+AI Research Portfolio - Part of a mission to explore and understand AI-generated, human-controlled work of all kinds. Ultimately contributing to the promotion and advancement of AI safety.
+
 by Josiah Rhys Jacobson
 
 ![](Slides/01%20FNI%20AuraLock%20-%20Showreel.001.jpeg)
